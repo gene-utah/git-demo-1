@@ -1,0 +1,1 @@
+This project is a demo of how to use GIT to collaborate with a team.
